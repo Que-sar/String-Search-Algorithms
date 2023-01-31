@@ -1,0 +1,62 @@
+10ksmall
+KMP median 145.0 average: 149
+BMH median 623.0 average: 629
+
+100ksmall
+KMP median 1391.5 average: 1418
+BMH median 6074.0 average: 6141
+
+500ksmall
+KMP median 7077.0 average: 7147
+BMH median 30248.5 average: 30497
+
+1msmall
+KMP median 14170.5 average: 14794
+BMH median 60341.0 average: 61126
+
+10kmedium
+KMP median 141.0 average: 143
+BMH median 403.0 average: 409
+
+100kmedium
+KMP median 1369.0 average: 1395
+BMH median 3967.0 average: 4026
+
+500kmedium
+KMP median 7023.5 average: 7224
+BMH median 20099.5 average: 20551
+
+1mmedium
+KMP median 14275.0 average: 15215
+BMH median 40584.0 average: 41697
+
+10klong
+KMP median 140.0 average: 141
+BMH median 226.0 average: 229
+
+100klong
+KMP median 1379.5 average: 1415
+BMH median 2220.0 average: 2262
+
+500klong
+KMP median 6991.0 average: 7135
+BMH median 11107.0 average: 11305
+
+1mlong
+KMP median 13983.0 average: 14148
+BMH median 22332.0 average: 22581
+
+10kworstcase
+KMP median 284.0 average: 293
+BMH median 1413.0 average: 1453
+
+100kworstcase
+KMP median 2731.0 average: 2768
+BMH median 14108.0 average: 14334
+
+500kworstacase
+KMP median 13581.5 average: 13901
+BMH median 70121.0 average: 71140
+1mworstcase
+KMP median 27079.5 average: 27407
+BMH median 132296.0 average: 134600
